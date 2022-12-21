@@ -4,7 +4,7 @@ As aulas tiveram o objetivo de utilizar DOM no JavaScript para construir uma apl
 
 ![preview](./assets/preview.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-1---Stage-5---Biscoito-da-Sorte/)
+🔗 [Clique aqui para acessar](https://biscoitosorte.netlify.app)
 
 ## 💻 Tecnologias
 
